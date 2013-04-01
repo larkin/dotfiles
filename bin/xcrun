@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# ugly fix when you're only using xcode command line tools
+
+$@
