@@ -1,0 +1,3 @@
+# Settings, ignore some directories.
+
+fileBrowserGlob  = "{*,.tm_properties,.htaccess,.gitignore}"
