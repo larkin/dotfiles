@@ -1,4 +1,3 @@
-# Settings, ignore some directories.
-
+TM_JSLINTMATE_DEFAULT_LINTER = "jshint"
 fileBrowserGlob  = "{*,.tm_properties,.htaccess,.gitignore}"
-exclude = "{dist/*}"
+excludeDirectories = "{dist,log,node_modules,/tmp,/components,/build}"
