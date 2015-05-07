@@ -4,3 +4,5 @@
 *.swp
 *.rbc
 .tm_properties
+celerybeat-schedule.db
+celerybeat.pid
