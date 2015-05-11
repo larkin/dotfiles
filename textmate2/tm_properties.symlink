@@ -1,3 +1,7 @@
 TM_JSLINTMATE_DEFAULT_LINTER = "jshint"
 fileBrowserGlob  = "{*,.tm_properties,.htaccess,.gitignore}"
 excludeDirectories = "{dist,log,node_modules,/tmp,/components,/build}"
+
+
+[*.{md,markdown}]
+scopeAttributes = attr.keep-whitespace
