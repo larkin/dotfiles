@@ -6,3 +6,4 @@
 .tm_properties
 celerybeat-schedule.db
 celerybeat.pid
+node_modules/
