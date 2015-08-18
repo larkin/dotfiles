@@ -2,7 +2,7 @@
 
 NOTE_TITLE=$@
 
-NOTE_FILENAME="$HOME/Notes/$(date +%Y-%m-%d) $NOTE_TITLE.txt"
+NOTE_FILENAME="$HOME/Notes/$(date +%Y-%m-%d) $NOTE_TITLE.md"
 
 echo "# $NOTE_TITLE" >> "$NOTE_FILENAME"
 
